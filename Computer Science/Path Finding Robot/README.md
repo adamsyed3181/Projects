@@ -2,7 +2,7 @@
 The puropose of our FindPath.py file is to create a path finding robot to navigate through multiple hospital wards, using A* and Dijkstra to avoid obstacles and find the optimum path.
 
 # Instructions
-To use the program, simply enter python FindPath.py in the terminal or click run. After that, you will be prompted to enter the name or number of the input file. You will see that all of the input files in this repository are formatted as "inputfile__.txt", so simply enter the corresponding name or number of the file that you wish to run.
+To use the program, you must download this directorie's .zip file and run FindPath.py. Once you are in the program, simply enter "python FindPath.py" in the terminal or click run. After that, you will be prompted to enter the name or number of the input file. You will see that all of the input files in this repository are formatted as "inputfile__.txt", so simply enter the corresponding name or number of the file that you wish to run.
 
 # Notable classes:
 ## MazeGame
