@@ -1,0 +1,7 @@
+Dijkstra
+Medical Ward
+Emergency
+Oncology
+PEDIATRIC
+Start: Admissions
+Surgical

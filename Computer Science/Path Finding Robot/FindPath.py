@@ -552,5 +552,4 @@ if __name__ == "__main__":
     game = MazeGame(root, maze, filename)
     root.bind("<KeyPress>", game.move_agent)
 
-
     root.mainloop()

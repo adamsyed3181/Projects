@@ -1,0 +1,7 @@
+A*
+Admissions
+ICU
+Oncology
+Burn Ward
+Start: Maternity
+General

@@ -1,0 +1,7 @@
+Dijkstra
+Isolation Ward
+Admissions
+Oncology
+Surgical
+Start: Medical Ward
+PEDIATRIC
