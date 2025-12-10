@@ -19,5 +19,5 @@ In documents you will find a collection of some notable projects I have complete
 ## R Statistical Programming Language:
 
 ### This file contains two folders, utlizing different packages within the R programming language.
-### Midterm: This project contains an R file as well as a presentation on the Plotly packge in R. The code showcases unique featues of the package.
-### R Shiny: This file contains an R file that uses the Shiny package to create an interactive data visualization web application.
+### -Midterm: This project contains an R file as well as a presentation on the Plotly packge in R. The code showcases unique featues of the package.
+### -R Shiny: This file contains an R file that uses the Shiny package to create an interactive data visualization web application.
